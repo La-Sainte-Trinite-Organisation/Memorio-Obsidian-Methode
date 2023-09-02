@@ -1,0 +1,16 @@
+{
+  "insertMode": "local",
+  "orientation": "landscape",
+  "insertSize": "",
+  "imageSize": "large",
+  "frontmatter": {
+    "key": "image",
+    "valueFormat": "{image-url}",
+    "appendReferral": true
+  },
+  "imageProvider": "unsplash",
+  "proxyServer": "",
+  "pixabayApiKey": "",
+  "insertBackLink": false,
+  "pexelsApiKey": ""
+}

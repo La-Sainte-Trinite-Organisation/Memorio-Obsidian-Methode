@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarBrainDuotone",
+      "FarHouseDuotone",
+      "FarArticleDuotone",
+      "FarAppWindowDuotone",
+      "FarPottedPlantDuotone"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "0 INBOX": "FarArchiveBoxDuotone",
+  "2 PROJETS": "FarCropDuotone",
+  "5 ARCHIVES": "FarArchiveDuotone",
+  "4 RESSOURCES/Pièces Jointes/duotone": "FarBagDuotone",
+  "Home Page.md": "FarHouseDuotone",
+  "6 NOTES PERMANENTES": "FarPottedPlantDuotone",
+  "Applications": "FarAppWindowDuotone",
+  "4 RESSOURCES": "FarArticleDuotone",
+  "3 CASQUETTES": "FarUserCircleDuotone",
+  "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Obsidian - Succès.md": "FarCheckCircleDuotone",
+  "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio": "FarBrainDuotone"
+}

@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "3 CASQUETTES/°Obsidian/Obsidian - Dossier de Test/Projects - Demo Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "name": {
+                "width": 360
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "356f47d8-0c52-4e83-be14-41e43c2fca8b",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "priorityField": "weight",
+            "columns": {
+              "Backlog": {
+                "weight": 0
+              },
+              "EnCours": {
+                "weight": 1
+              },
+              "Doing": {
+                "weight": 2
+              },
+              "Done": {
+                "weight": 3
+              }
+            },
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "a0afb6ca-63be-4939-b754-31a0fa561b5f",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "f6f4b570-6f18-4f39-a6da-3a7b6911ac71",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "fbb56b07-36b8-4667-a419-bb8386dd8d12",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "filepath": "0 INBOX/Projects - Demo Project/6edeb40f-17e8-4f49-a5a8-25ee92a936c4_db.md"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "6edeb40f-17e8-4f49-a5a8-25ee92a936c4",
+          "name": "Test",
+          "type": "dbfolder-view"
+        }
+      ],
+      "name": "Demo project",
+      "id": "ae726120-7d02-447c-b9f6-6771f279436f",
+      "path": "Projects - Demo Project"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

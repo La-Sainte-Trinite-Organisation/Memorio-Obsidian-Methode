@@ -1,0 +1,20 @@
+{
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "+"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Numpad0"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Home Page",
+      "kind": "File",
+      "openOnStartup": true,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "refreshDataview": true,
+      "autoCreate": true,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": false
+    }
+  },
+  "separateMobile": false
+}

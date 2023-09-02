@@ -1,0 +1,13 @@
+{
+  "dateFormat": "yyyy-MM-dd' 'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "Date dernière modification",
+  "headerCreated": "Date de création",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "3 CASQUETTES/°Obsidian/Templates"
+  ],
+  "ignoreCreatedFolder": [
+    "3 CASQUETTES/°Obsidian/Templates"
+  ]
+}

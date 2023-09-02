@@ -1,0 +1,13 @@
+{
+  "folder": "0 INBOX",
+  "fileNameFormat": "{{title}} - {{author}} - Livre",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "3 CASQUETTES/°Obsidian/Templates/Template - Livres.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default"
+}

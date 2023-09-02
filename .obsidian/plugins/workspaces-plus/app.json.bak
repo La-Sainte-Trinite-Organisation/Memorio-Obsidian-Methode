@@ -1,0 +1,19 @@
+{
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0 INBOX",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "4 RESSOURCES/Pièces Jointes",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "userIgnoreFilters": null,
+  "spellcheckDictionary": [
+    "Anki",
+    "Cornell"
+  ]
+}

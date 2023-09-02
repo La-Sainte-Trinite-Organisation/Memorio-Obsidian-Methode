@@ -1,0 +1,119 @@
+{
+  "choices": [
+    {
+      "id": "26af6957-535a-418b-8223-87e753f5b2f5",
+      "name": "Nouveau Cours-Conrell (générique)",
+      "type": "Macro",
+      "command": false,
+      "macroId": "816fb9b9-9bbd-4d83-a513-73995fc09665"
+    },
+    {
+      "id": "7bfea991-b15f-4eb6-89e1-4d2ae70c0135",
+      "name": "Zettel",
+      "type": "Macro",
+      "command": false,
+      "macroId": "be01ea6b-f2b5-46b3-a0af-80d6bfef2ff6"
+    },
+    {
+      "id": "58942ccc-43cf-410e-8467-b273a73b0e24",
+      "name": "Zettel (all)",
+      "type": "Macro",
+      "command": false,
+      "macroId": "7572ae3e-802a-4c1c-81bc-3a073a574819"
+    },
+    {
+      "id": "15d641ca-baae-4044-b074-b83fb1c35eaa",
+      "name": "Test - Multi - Template",
+      "type": "Multi",
+      "command": false,
+      "choices": [],
+      "collapsed": true
+    }
+  ],
+  "macros": [
+    {
+      "name": "Nouveau - Note Conrell - générique",
+      "id": "816fb9b9-9bbd-4d83-a513-73995fc09665",
+      "commands": [
+        {
+          "name": "Template - Cours Cornell (générique)",
+          "type": "NestedChoice",
+          "id": "e7bcadda-f35b-4841-a730-a9192242ee0f",
+          "choice": {
+            "id": "e09f64a2-1f16-4b3d-a375-9785a1fc3d83",
+            "name": "Template - Cours Cornell (générique)",
+            "type": "Template",
+            "command": false,
+            "templatePath": "3 CASQUETTES/°Obsidian/Templates/Template - Note Cornell.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE}} - Cornell"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "1ca9585c-5d15-4ee6-bdcb-03c2167d5a14",
+          "time": 2000
+        },
+        {
+          "name": "Templater: Replace templates in the active file",
+          "type": "Obsidian",
+          "id": "bea7895a-c660-4401-9071-9e0ff6ec2d7d",
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Zettel",
+      "id": "be01ea6b-f2b5-46b3-a0af-80d6bfef2ff6",
+      "commands": [],
+      "runOnStartup": false
+    },
+    {
+      "name": "Zettel (all)",
+      "id": "7572ae3e-802a-4c1c-81bc-3a073a574819",
+      "commands": [],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false,
+  "templateFolderPath": "3 CASQUETTES/°Obsidian/Templates",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": false,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

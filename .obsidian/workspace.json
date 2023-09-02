@@ -1,0 +1,382 @@
+{
+  "main": {
+    "id": "546a682ab41236d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc178be51b312a0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571eed0ff2e23a24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa090696f134409b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Notes permanentes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "82608947a8f3d6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Vocabulaire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "15b7f9491c9b2784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fce97f1542ae8d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff1111a2a2925a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3875ca43429b9de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9be93bf86f1081",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02a636232566e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e8acfe1b3ce252c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e59dc7c21ba8b5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c42926102715953",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "bffe8ac7041bc851",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3049a89c4c4f8e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369
+  },
+  "right": {
+    "id": "fde72d37d0ef1a36",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7243e7385e82122",
+        "type": "tabs",
+        "dimension": 37.624750499002,
+        "children": [
+          {
+            "id": "a8b941d082d370fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "0438616585563e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa803cdd2e7d1ba6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e07b143bba0be44c",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1011f50e570ba20",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "25461731bc5b97cf",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "435b2c12758cecda",
+        "type": "tabs",
+        "dimension": 36.227544910179645,
+        "children": [
+          {
+            "id": "573ff483c288202b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "321e236cae033bec",
+        "type": "tabs",
+        "dimension": 26.147704590818368,
+        "children": [
+          {
+            "id": "d507d36463f91679",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 8,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "graph:Ouvrir la vue graphique": false,
+      "omnisearch:Omnisearch": false,
+      "templates:Insérer le modèle": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "command-palette:Ouvrir la palette de commandes": true,
+      "workspaces:Gérer les espaces de travail": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "dbfolder:Créer une nouvelle table de données": true,
+      "dangerzone-writing-plugin:Dangerzone Writing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-projects:Open projects": false,
+      "footlinks:Footlinks": true,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "obsidian-importer:Open Importer": true,
+      "templater-obsidian:Templater": true,
+      "zk-prefixer:Créer une nouvelle note unique": false,
+      "obsidian-omnivore:Omnivore": false
+    }
+  },
+  "active": "d507d36463f91679",
+  "lastOpenFiles": [
+    "3 CASQUETTES/°Obsidian/Templates/Template - Notes permanentes.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - EMC.md",
+    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230902162159.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230902162125.png",
+    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Normes & Standards pour Obsidian - 2023090118464056.md",
+    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Obsidian - Succès.md",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230902160854 - Anki Drapeaux.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230902160751.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230819150609.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230819122832 - Présentation drapeau rouge Anki.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230826125651.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230823105139.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230901161445.png",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230823131027.png",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/02.md",
+    "4 RESSOURCES/Pièces Jointes/Pasted image 20230819122832 - Présentation drapeau rouge Anki.png.~tmp",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - SVT.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - SNT.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - SES.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Physique.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Mathématiques.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Histoire.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Géographie.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Français.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Espagnol.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Chimie.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Anglais.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/6_Project Notes/Content - e1.md",
+    "0 INBOX/eBook - Smart Sketchnotes.md",
+    "6 NOTES PERMANENTES/FRANÇAIS/FRANÇAIS.md",
+    "4 RESSOURCES/_SCOLAIRE/_SCOLAIRE.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/4_Bibliographical Notes/Sönke Ahrens.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Citation.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Question.md",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021/05",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Book notes",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/Assets/take_useful_notes_v0-16-0_2023-03-30.pdf",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/Canvases/Zettelkasten Workflow with Obsidian.canvas",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/Canvases/How to Use Tags.canvas",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/Canvases/Comment utiliser les liens avec les templates.canvas",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/Visuals",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/2_Note linéaires",
+    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/1_Notes temporaires",
+    "4 RESSOURCES/_PRISE DE NOTES/LICENSE"
+  ]
+}

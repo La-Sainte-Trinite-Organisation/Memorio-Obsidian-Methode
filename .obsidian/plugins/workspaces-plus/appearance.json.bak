@@ -1,0 +1,21 @@
+{
+  "accentColor": "#ac6c2f",
+  "cssTheme": "AnuPpuccin",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "img-grid",
+    "image-grid",
+    "img-grid - positionnement",
+    "image-grid - tuiles",
+    "cards",
+    "notion-cards",
+    "extended-colorschemes",
+    "dashboard"
+  ],
+  "translucency": false,
+  "interfaceFontFamily": "Ubuntu,Inter,Arial,Calibri",
+  "textFontFamily": "Ubuntu,Inter,Arial,Calibri",
+  "monospaceFontFamily": "Ubuntu Mono,Cascadia Mono",
+  "baseFontSize": 16
+}

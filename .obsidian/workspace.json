@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md"
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md"
               }
             }
           },
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
+                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -327,14 +327,18 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "d507d36463f91679",
+  "active": "ff1111a2a2925a37",
   "lastOpenFiles": [
+    "0 INBOX/Sans titre - 2023083119140053.md",
+    "Home Page.md",
+    "0 INBOX/Sans titre 1.md",
+    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
+    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Normes & Standards pour Obsidian - 2023090118464056.md",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/03.md",
     "3 CASQUETTES/°Obsidian/Templates/Template - Notes permanentes.md",
     "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - EMC.md",
-    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/P. Long Terme 1 - Mémorio.md",
     "4 RESSOURCES/Pièces Jointes/Pasted image 20230902162159.png",
     "4 RESSOURCES/Pièces Jointes/Pasted image 20230902162125.png",
-    "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Normes & Standards pour Obsidian - 2023090118464056.md",
     "2 PROJETS/3 Projets Long-Terme/P. Long Terme 1 - Mémorio/Obsidian - Expérimentation/Obsidian - Succès.md",
     "4 RESSOURCES/Pièces Jointes/Pasted image 20230902160854 - Anki Drapeaux.png",
     "4 RESSOURCES/Pièces Jointes/Pasted image 20230902160751.png",
@@ -362,10 +366,6 @@
     "0 INBOX/eBook - Smart Sketchnotes.md",
     "6 NOTES PERMANENTES/FRANÇAIS/FRANÇAIS.md",
     "4 RESSOURCES/_SCOLAIRE/_SCOLAIRE.md",
-    "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
-    "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/4_Bibliographical Notes/Sönke Ahrens.md",
-    "3 CASQUETTES/°Obsidian/Templates/Template - Citation.md",
-    "3 CASQUETTES/°Obsidian/Templates/Template - Question.md",
     "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021/05",
     "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021",
     "3 CASQUETTES/°Obsidian/Templates/Template - Book notes",

@@ -1,22 +1,14 @@
 ---
-tags: Type/person role/autheur
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
-aliases: 
-birthday:
+tags:
+  - Type/person
+  - role/autheur
+aliases: []
+birthday: 
 bio_short: 
 visual:
-# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: Author
-bio_short: 
-#
-template-type: Author
-template-version: "1.5"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
-
+- [ ] Ajouter le Z-UUID au titre : {{Titre}} - Z-UUID
+- [ ] Ajouter le {{titre}} à “aliases” 
 # {{Title}}
 
 ##  Bio

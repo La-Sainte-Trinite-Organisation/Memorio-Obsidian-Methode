@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
+                "file": "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -154,7 +154,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md"
+                "file": "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md"
               }
             }
           },
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
+                "file": "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
+                "file": "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -261,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
+                "file": "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -329,6 +330,9 @@
   },
   "active": "ff1111a2a2925a37",
   "lastOpenFiles": [
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/04.md",
+    "3 CASQUETTES/°Life tracking/Notes quotidiennes/2023/09/06.md",
+    "3 CASQUETTES/°Obsidian/Templates/Template - Auteurs.md",
     "0 INBOX/Sans titre - 2023083119140053.md",
     "Home Page.md",
     "0 INBOX/Sans titre 1.md",
@@ -363,9 +367,6 @@
     "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian - Anglais.md",
     "3 CASQUETTES/°Obsidian/Templates/Template - Cours Obsidian.md",
     "4 RESSOURCES/_PRISE DE NOTES/Zettelkasten Obsidian - Starter-Kit/6_Project Notes/Content - e1.md",
-    "0 INBOX/eBook - Smart Sketchnotes.md",
-    "6 NOTES PERMANENTES/FRANÇAIS/FRANÇAIS.md",
-    "4 RESSOURCES/_SCOLAIRE/_SCOLAIRE.md",
     "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021/05",
     "3 CASQUETTES/°Life tracking/Notes quotidiennes/2021",
     "3 CASQUETTES/°Obsidian/Templates/Template - Book notes",

@@ -1,14 +1,23 @@
 {
-  "contextAwareMode": true,
+  "contextAwareMode": false,
   "sourceSupport": true,
   "codeHighlightSupport": true,
   "inlineID": true,
   "contextSeparator": " > ",
-  "deck": "deck:0 INBOX",
+  "deck": "0 INBOX",
   "folderBasedDeck": true,
   "flashcardsTag": "card",
   "inlineSeparator": "::",
   "inlineSeparatorReverse": ":::",
   "defaultAnkiTag": "obsidian",
-  "ankiConnectPermission": false
+  "ankiConnectPermission": true,
+  "ankiBasicModel": "Obsidian-basic-source",
+  "ankiBasicModelSourceField": "Source",
+  "ankiBasicModelContextField": "Front",
+  "ankiReversedModel": "Basic (and reversed card)",
+  "ankiReversedModelSourceField": "Source",
+  "ankiReversedModelContextField": "Context",
+  "ankiClozeModel": "Cloze",
+  "ankiClozeModelSourceField": "Source",
+  "ankiClozeModelContextField": "Context"
 }
